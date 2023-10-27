@@ -1,2 +1,2 @@
-# Learning-Py
-Just me trying to learn python
+# Learning.Py
+This is where I document and note my python progress.
