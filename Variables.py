@@ -27,5 +27,5 @@
     #accountAge += 1
 
 # If you want to combine strings and ints in a print statement you have to do something called "Type casting"
-# you can type cast by surrounding the variable name with parentheses and adding str before them with no space ex:
+# you can type cast by surrounding the variable name with parentheses and adding the variable type before the parentheses with no space ex:
 #   print("Your account is: "+ str(accountAge)+" years old.")
