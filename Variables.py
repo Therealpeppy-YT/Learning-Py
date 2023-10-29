@@ -28,7 +28,7 @@
 # But there is a shorter way of writing this, instead of saying "accountAge = accountAge + 1" you can instead write
     #accountAge += 1
 
-# To learn how to print strings in combination with other variable types go to 
+# To learn how to print strings in combination with other variable types go to Typecasting.py
 
 # ---------- Floats - Floats aka Floating Point Number (a decimal) are is a number value with a decimal NOT surrounded by quotes '' nor double quotes "" ---------- 
 
